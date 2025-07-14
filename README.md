@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vedant Gawali
 
-<img src="Banner.png" alt="Vedant Gawali Banner" width="100%" />
+
 
 
 A Computer Engineering student and a passionate **Full-Stack Developer** who thrives on turning ideas into scalable digital products.
