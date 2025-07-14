@@ -9,7 +9,7 @@ Currently exploring the intersection of **Web Development**, **App Development (
 
 ---
 
-### 💼 What I Do:
+### 🌟 What I Do:
 - 🌐 Build full-stack web apps using **MERN stack**
 - 📱 Develop cross-platform apps using **Flutter**
 - 🧠 Tackle DSA and system design problems
