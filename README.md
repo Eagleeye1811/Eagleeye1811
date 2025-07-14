@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Vedant Gawali
 
+<img src="Banner.png" alt="Vedant Gawali Banner" width="100%" />
+
+
 A Computer Engineering student and a passionate **Full-Stack Developer** who thrives on turning ideas into scalable digital products.
 I love building projects that make an impact — whether it's a video app, a storytelling platform, or a travel experience app. I enjoy solving real-world problems through code and design.
 Currently exploring the intersection of **Web Development**, **App Development (Flutter)**, and **AIML**, with a focus on clean architecture and great user experience.
