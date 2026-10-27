@@ -10,7 +10,6 @@ I enjoy taking ideas from concept to implementation - from developing full-stack
 
 Currently, I'm focused on **software engineering, Generative AI, agentic systems, and backend development**, with an emphasis on practical problem-solving, clean architecture, and building products that deliver real value.
 
----
 
 ## 🚀 What I'm Up To
 
@@ -21,7 +20,6 @@ Currently, I'm focused on **software engineering, Generative AI, agentic systems
 - 🏆 Participating in hackathons and building solutions to real-world problems.
 - 📚 Strengthening my problem-solving skills and software engineering fundamentals.
 
----
 
 ## 🏆 Achievements
 
@@ -29,9 +27,6 @@ Currently, I'm focused on **software engineering, Generative AI, agentic systems
 - 🏆 **Winner — HackCelestial 2.0**
 - 🌟 **7× Hackathon Finalist**
 - 👨‍💻 **Senior Technical Officer — ISTE, VESIT**
-
----
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedant.g_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-gawali-b214182b5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedgawali@gmail.com) 
