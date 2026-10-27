@@ -2,19 +2,35 @@
 
 <img src="NewBanner.png" alt="Vedant Gawali Banner" width="100%" />
 
+### Software Developer | AI Automation | Full-Stack & AI-Powered Applications
 
-A Computer Engineering student and a passionate **Full-Stack Developer** who thrives on turning ideas into scalable digital products.
-I love building projects that make an impact — whether it's a video app, a storytelling platform, or a travel experience app. I enjoy solving real-world problems through code and design.
-Currently exploring the intersection of **Web Development**, **App Development (Flutter)**, and **AIML**, with a focus on clean architecture and great user experience.
+I'm a Computer Engineering student at **VESIT '27**, passionate about building scalable software, AI-powered applications, and intelligent automation systems.
+
+I enjoy taking ideas from concept to implementation - from developing full-stack applications and cross-platform mobile apps to integrating LLMs, building AI workflows, and optimizing real-world products.
+
+Currently, I'm focused on **software engineering, Generative AI, agentic systems, and backend development**, with an emphasis on practical problem-solving, clean architecture, and building products that deliver real value.
 
 ---
 
-### 🌟 What I Do:
-- 🌐 Build full-stack web apps using **MERN stack**
-- 📱 Develop cross-platform apps using **Flutter**
-- 🧠 Tackle DSA and system design problems
-- 🤝 Collaborate in teams, lead hackathon projects
-- 🎯 Always learning, building, and leveling up
+## 🚀 What I'm Up To
+
+- 🤖 Building AI-powered applications and automation workflows.
+- 🛠️ Developing full-stack web applications and cross-platform mobile apps.
+- 🧠 Exploring LLMs, RAG, AI agents, tool calling, and workflow orchestration.
+- ⚡ Working on API integrations, backend systems, and application optimization.
+- 🏆 Participating in hackathons and building solutions to real-world problems.
+- 📚 Strengthening my problem-solving skills and software engineering fundamentals.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Best Innovation Award — Nomura KakushIN 10.0**
+- 🏆 **Winner — HackCelestial 2.0**
+- 🌟 **7× Hackathon Finalist**
+- 👨‍💻 **Senior Technical Officer — ISTE, VESIT**
+
+---
 
 
 ## 🌐 Socials:
